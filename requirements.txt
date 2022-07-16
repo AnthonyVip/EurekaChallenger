@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+configparse
+pydantic[email]
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+psycopg2-binary
+requests
+loguru
+ratelimit
